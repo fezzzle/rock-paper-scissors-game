@@ -1,0 +1,18 @@
+.buttons {
+  display: flex;
+  flex: 1;
+  min-height: 100px;
+  max-height: 200px;
+  align-items: center;
+  justify-content: center;
+}
+
+#resultDiv {
+  display: flex;
+  flex: 1;
+  min-height: 100px;
+  max-height: 200px;
+  align-items: center;
+  justify-content: center;
+}
+
